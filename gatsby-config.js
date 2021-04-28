@@ -3,10 +3,10 @@ module.exports = {
     title: `Latest Jim Trends`,
     name: `James O'Shea`,
     siteUrl: `https://latestjimtrends.online/`,
-    description: `This is the place to keep abreast of the latest trends in Jim-adjacent industries. Jim equipment, Slim Jims, Jimbalaya and variaous Jim-related paraphenalia.`,
+    description: `Your one-stop shop to stay on top of the latest trends in Jim-adjacent industries. Jim equipment, Slim Jims, Jimbalaya and of course, miscellaneous. Your fingers are on the pulse of life.`,
     hero: {
-      heading: `The best opinions in the world`,
-      maxWidth: 652,
+      heading: `Your one-stop shop to stay on top of the latest trends in Jim-adjacent industries. Jim equipment, Slim Jims, Jimbalaya and of course, miscellaneous. Your fingers are on the pulse of life. `,
+      maxWidth: "100vw",
     },
     social: [
       {
