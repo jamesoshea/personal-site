@@ -1,33 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Latest Jim Trends`,
+    name: `James O'Shea`,
+    siteUrl: `https://latestjimtrends.online/`,
+    description: `This is the place to keep abreast of the latest trends in Jim-adjacent industries. Jim equipment, Slim Jims, Jimbalaya and variaous Jim-related paraphenalia.`,
     hero: {
       heading: `The best opinions in the world`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://github.com/jamesoshea`,
       },
     ],
   },
@@ -41,7 +25,6 @@ module.exports = {
         authorsPage: true,
         sources: {
           local: true,
-          // contentful: true,
         },
       },
     },

@@ -1,11 +1,9 @@
 name: James O'Shea
 bio: |
-  Brotaufstrich is just expensive baby food.
+  I have a website
 avatar: ./avatars/james-oshea.jpg
 social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+  - url: https://github.com/jamesoshea
+  - url: https://instagram.com/friendlyproteinsalesman
+  - url: https://www.linkedin.com/in/jiwhitehurst/
 featured: true
